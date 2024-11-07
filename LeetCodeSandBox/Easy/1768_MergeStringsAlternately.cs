@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace LeetCodeSandBox;
+namespace LeetCodeSandBox.EasyLevelTasks;
 
 public class MergeStringsAlternatelyTask
 {

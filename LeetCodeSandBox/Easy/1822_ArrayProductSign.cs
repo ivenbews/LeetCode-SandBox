@@ -1,4 +1,4 @@
-﻿namespace LeetCodeSandBox;
+﻿namespace LeetCodeSandBox.EasyLevelTasks;
 
 public class ArrayProductSignTask
 {

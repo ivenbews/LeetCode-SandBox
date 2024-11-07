@@ -1,7 +1,4 @@
-﻿using System.Collections.Immutable;
-using System.Linq;
-
-namespace LeetCodeSandBox;
+﻿namespace LeetCodeSandBox.EasyLevelTasks;
 
 public class FindTheDifferenceTask
 {
