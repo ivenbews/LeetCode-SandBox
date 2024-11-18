@@ -1,8 +1,8 @@
-﻿using LeetCodeSandBox;
+﻿using LeetCodeSandBox.EasyLevelTasks;
 
-namespace LeetCodeSandBoxTests;
+namespace LeetCodeSandBoxTests.EasyLevelTasks;
 
-public class IndexOfTheFirstOccurrenceInAStringTest
+public class ValidAnagramTest
 {
     [TestCase("sadbutsad", "sad", 0)]
     [TestCase("leetcode", "leeto", -1)]

@@ -1,6 +1,6 @@
-﻿using LeetCodeSandBox;
+﻿using LeetCodeSandBox.EasyLevelTasks;
 
-namespace LeetCodeSandBoxTests;
+namespace LeetCodeSandBoxTests.EasyLevelTasks;
 
 public class RepeatedSubstringPatternTest
 {
